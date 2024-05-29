@@ -10,19 +10,13 @@ Com base no vídeo de lançamento do iPhone de 2007, foram modeladas e diagramad
 ## Funcionalidades a Modelar
 
 ### Reprodutor Musical
-- `tocar()`: Inicia a reprodução da música.
-- `pausar()`: Pausa a música.
-- `selecionarMusica(String musica)`: Seleciona uma música específica.
+- Métodos: tocar(), pausar(), selecionarMusica(String musica)
 
 ### Aparelho Telefônico
-- `ligar(String numero)`: Realiza uma ligação para o número especificado.
-- `atender()`: Atende uma chamada.
-- `iniciarCorreioVoz()`: Inicia o correio de voz.
+- Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
 
-### Navegador de Internet
-- `exibirPagina(String url)`: Exibe a página da web especificada.
-- `adicionarNovaAba()`: Adiciona uma nova aba no navegador.
-- `atualizarPagina()`: Atualiza a página atual.
+### Navegador na Internet
+- Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
 ## Diagrama UML
 
